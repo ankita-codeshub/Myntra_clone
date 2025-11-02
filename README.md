@@ -5,6 +5,16 @@ This project accurately recreates the homepage interface, featuring a fixed navi
 Designed purely for educational and portfolio purposes, it demonstrates a strong understanding of web layout design, responsive styling, and modern front-end development principles.
 
 ---
+## 📂 Project Content:
+
+This project includes the following main files and folders:
+
+- **index.html** — The main HTML structure of the Myntra homepage clone.  
+- **style.css** — Contains all the styling for layout, typography, colors, and responsiveness.  
+- **images/** — Stores product banners, category images, and promotional graphics.  
+- **icons/** — Contains social media icons, app store badges, and utility icons used in the footer and navbar.  
+- **README.md** — Documentation file describing the project setup and usage.
+
 
 ## 🌟 Project Highlights:
 
@@ -29,8 +39,8 @@ Designed purely for educational and portfolio purposes, it demonstrates a strong
 ---
 
 ## 🧩 File Structure:
-
-Myntra_clone/
+```
+ Myntra_clone/
 │
 ├── index.html
 ├── style.css
@@ -49,8 +59,8 @@ Myntra_clone/
 │ ├── insta.png
 │ ├── og.png
 │ └── return.png
-└── README.md
-
+└── README.md 
+```
 ---
 
 ## 🧱 Key Components
