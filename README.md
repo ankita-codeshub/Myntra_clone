@@ -104,7 +104,7 @@ Tested on:
 ## 🚀 How to View
 1. Download or clone the repository:
 
-  ``` git clone https://github.com/your-username/myntra-homepage-clone.git ```
+  ``` git clone https://github.com/ankita-codeshub/Myntra_clone.git ```
 
 2.Open the project folder:
 
