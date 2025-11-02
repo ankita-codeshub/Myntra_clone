@@ -109,6 +109,7 @@ Tested on:
 2.Open the project folder:
 
 ``` cd myntra_clone ```
+
 3.Open index.html in any browser:
 (Recommended: use VS Code with Live Server for smooth preview)
 
